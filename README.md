@@ -3,5 +3,7 @@ Applying my knowledge in HTML in the creation of a website with my favorite band
 
 ## Slauther to prevail Website
 
-<img src="aa.jpg" alt="slaugther to prevail" width=1000px/>
-
+<div align = "center">
+<figure>
+	<img align = "left" src = "https://github.com/JWchester/BasicWebSite/blob/main/Images/aa.jpg" width = 1000px  />
+	 <figcaption>  Figura 1 - Website </div> <br/>
