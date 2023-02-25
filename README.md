@@ -11,5 +11,5 @@ Applying my knowledge in HTML in the creation of a website with my favorite band
 
 clone this repository
 ```
-git clone https://github.com/JWchester/Live_Wallpaper-Effect-Matrix.git
+git clone https://github.com/JWchester/BasicWebSite.git
 ```
