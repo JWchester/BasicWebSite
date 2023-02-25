@@ -5,7 +5,7 @@ Applying my knowledge in HTML in the creation of a website with my favorite band
 
 <div align = "center">
 <figure>
-	<img align = "left" src = "https://github.com/JWchester/BasicWebSite/blob/main/Images/aa.jpg" width = 1000px  />
+	<img align = "left" src = "https://github.com/JWchester/BasicWebSite/blob/main/Images/aa.png" width = 1000px  />
 	 <figcaption>  Figura 1 - Website </div> <br/>
 
 
