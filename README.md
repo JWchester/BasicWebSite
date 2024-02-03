@@ -8,6 +8,7 @@ Applying my knowledge in `HTML Bśico` in the creation of a website with my favo
 	<img align = "left" src = "https://github.com/JWchester/BasicWebSite/blob/main/Images/aa.png" width = 1000px  />
 	 <figcaption>  Figura 1 - Website </div> <br/>
 
+Faça um tou pelo site clicando aqui: [Slaughter to Prevail Website](https://jwchester.github.io/BasicWebSite/)
 ## GOAL
 With just basic HTML I need to generate the best website possible with the only tools I have at hand.
 
